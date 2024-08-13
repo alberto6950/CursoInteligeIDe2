@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1de76d17-b325-4436-9d5f-d8353a596833" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CharCaracter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatoPrimitivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringDatosPrimtivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringDatosVariablePrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concatenarEnteros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conversionDatosPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estencionesarchivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inicializarenteros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodoImportanteObjetos.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kNfnLTsG4SKOGk6xkgBp4VJXN7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.StringDatosPrimtivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringDatosVariablePrimitivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.concatenarEnteros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.conversionDatosPrimitivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.estencionesarchivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inicializarenteros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.metodoImportanteObjetos.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/abrahan.rivero/OneDrive - Multicaja/Documentos/InteligiQA/CharCaracter/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.concatenarEnteros">
+    <configuration name="Variable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variable2" />
+      <module name="CharCaracter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="concatenarEnteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concatenarEnteros" />
+      <module name="CharCaracter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="estencionesarchivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estencionesarchivos" />
+      <module name="CharCaracter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inicializarenteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inicializarenteros" />
+      <module name="CharCaracter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="metodoImportanteObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodoImportanteObjetos" />
+      <module name="CharCaracter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.concatenarEnteros" />
+        <item itemvalue="Application.estencionesarchivos" />
+        <item itemvalue="Application.metodoImportanteObjetos" />
+        <item itemvalue="Application.inicializarenteros" />
+        <item itemvalue="Application.Variable2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de76d17-b325-4436-9d5f-d8353a596833" name="Changes" comment="" />
+      <created>1723129124901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723129124901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringDatosPrimtivos.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
