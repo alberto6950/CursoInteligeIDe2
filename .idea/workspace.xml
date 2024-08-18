@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de76d17-b325-4436-9d5f-d8353a596833" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CharCaracter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatoPrimitivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDatosPrimtivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDatosVariablePrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concatenarEnteros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversionDatosPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estencionesarchivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inicializarenteros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodoImportanteObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemploConOperadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadorIntanciaD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadorLogico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadoresTernarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/precedenciaOperadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programacionConOperadoresEjemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programadorConOperadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programadoreConOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,54 +39,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.StringDatosPrimtivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringDatosVariablePrimitivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variable2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variable3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concatenarEnteros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.conversionDatosPrimitivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.estencionesarchivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.inicializarenteros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.metodoImportanteObjetos.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/abrahan.rivero/OneDrive - Multicaja/Documentos/InteligiQA/CharCaracter/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.StringDatosPrimtivos.executor": "Run",
+    "Application.StringDatosVariablePrimitivos.executor": "Run",
+    "Application.Variable2.executor": "Run",
+    "Application.Variable3.executor": "Run",
+    "Application.concatenarEnteros.executor": "Run",
+    "Application.conversionDatosPrimitivos.executor": "Run",
+    "Application.ejemploConOperadores.executor": "Run",
+    "Application.estencionesarchivos.executor": "Run",
+    "Application.inicializarenteros.executor": "Run",
+    "Application.metodoImportanteObjetos.executor": "Run",
+    "Application.operadorIntanciaD.executor": "Run",
+    "Application.operadorLogico.executor": "Run",
+    "Application.operadoresTernarios.executor": "Run",
+    "Application.precedenciaOperadores.executor": "Debug",
+    "Application.programacionConOperadoresEjemplo.executor": "Run",
+    "Application.programadorConOperadores.executor": "Run",
+    "Application.programadoreConOperadores.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/abrahan.rivero/OneDrive - Multicaja/Documentos/InteligiQA/CharCaracter",
+    "onboarding.tips.debug.path": "C:/Users/abrahan.rivero/OneDrive - Multicaja/Documentos/InteligiQA/CharCaracter/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.concatenarEnteros">
-    <configuration name="Variable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable2" />
+}]]></component>
+  <component name="RunManager" selected="Application.precedenciaOperadores">
+    <configuration name="ejemploConOperadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemploConOperadores" />
       <module name="CharCaracter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concatenarEnteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concatenarEnteros" />
+    <configuration name="operadorIntanciaD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadorIntanciaD" />
       <module name="CharCaracter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="estencionesarchivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estencionesarchivos" />
+    <configuration name="operadoresTernarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadoresTernarios" />
       <module name="CharCaracter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inicializarenteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inicializarenteros" />
+    <configuration name="precedenciaOperadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="precedenciaOperadores" />
       <module name="CharCaracter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="metodoImportanteObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodoImportanteObjetos" />
+    <configuration name="programacionConOperadoresEjemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programacionConOperadoresEjemplo" />
       <module name="CharCaracter" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.concatenarEnteros" />
-        <item itemvalue="Application.estencionesarchivos" />
-        <item itemvalue="Application.metodoImportanteObjetos" />
-        <item itemvalue="Application.inicializarenteros" />
-        <item itemvalue="Application.Variable2" />
+        <item itemvalue="Application.precedenciaOperadores" />
+        <item itemvalue="Application.operadorIntanciaD" />
+        <item itemvalue="Application.programacionConOperadoresEjemplo" />
+        <item itemvalue="Application.operadoresTernarios" />
+        <item itemvalue="Application.ejemploConOperadores" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +133,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringDatosPrimtivos.java</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/precedenciaOperadores.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
